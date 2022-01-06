@@ -3,8 +3,9 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-.hero {
+.flex-container {
   display: flex;
+  margin-bottom: 150px;
 }
 
 .width-half {
@@ -28,7 +29,7 @@ h1 {
   border-image-slice: 1;
 }
 
-.color-orange {
+.text-orange {
   color: #ffad5a;
 }
 
@@ -44,4 +45,34 @@ h1 {
   padding: 12px;
   border-radius: 5px;
   margin-top: 10px;
+}
+
+.mission-title {
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 60px;
+}
+
+.mission-card {
+  width: 30%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 25px;
+  border-radius: 17px;
+}
+
+.card-1 {
+  background-color: #4f9da61a;
+}
+
+.card-2 {
+  background-color: #ff59591a;
+}
+
+.card-3 {
+  background-color: #fff4d6;
+}
+
+.mission-card img {
+  width: 30%;
 }
