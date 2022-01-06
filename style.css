@@ -76,3 +76,28 @@ h1 {
 .mission-card img {
   width: 30%;
 }
+
+.dev-area {
+  margin-top: 200px;
+  background-image: url(img/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 215px;
+  background-position: 10% 15%;
+}
+
+.dev-img-part {
+  width: 50%;
+}
+
+.dev-img-part img {
+  width: 45%;
+  margin-left: 35%;
+}
+.dev-text-part {
+  width: 50%;
+  margin-right: 10%;
+}
+
+h3 {
+  font-size: 35px;
+}
