@@ -126,3 +126,19 @@ h3 {
   width: 45%;
   margin-left: 25%;
 }
+
+.footer {
+  color: #fff;
+  background-color: #000;
+  text-align: center;
+  padding: 15px;
+}
+
+.footer-title {
+  font-weight: 100;
+  font-family: "Lobster", cursive;
+}
+
+.text-red {
+  color: #ff5959;
+}
