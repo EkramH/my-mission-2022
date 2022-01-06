@@ -55,21 +55,23 @@ h1 {
 
 .mission-card {
   width: 30%;
-  margin-left: 5%;
-  margin-right: 5%;
   padding: 25px;
   border-radius: 17px;
 }
 
 .card-1 {
+  margin-left: 15%;
   background-color: #4f9da61a;
 }
 
 .card-2 {
+  margin-left: 5%;
+  margin-right: 5%;
   background-color: #ff59591a;
 }
 
 .card-3 {
+  margin-right: 15%;
   background-color: #fff4d6;
 }
 
@@ -85,6 +87,11 @@ h1 {
   background-position: 10% 15%;
 }
 
+.dev-text-part {
+  width: 50%;
+  margin-right: 10%;
+}
+
 .dev-img-part {
   width: 50%;
 }
@@ -93,11 +100,29 @@ h1 {
   width: 45%;
   margin-left: 35%;
 }
-.dev-text-part {
-  width: 50%;
-  margin-right: 10%;
-}
 
 h3 {
   font-size: 35px;
+}
+
+.global-area {
+  margin-top: 200px;
+  background-image: url(img/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 215px;
+  background-position: 93% 99%;
+}
+
+.global-text-part {
+  width: 50%;
+  margin-left: 16%;
+}
+
+.global-img-part {
+  width: 50%;
+}
+
+.global-img-part img {
+  width: 45%;
+  margin-left: 25%;
 }
